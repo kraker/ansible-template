@@ -1,2 +1,7 @@
 # ansible-template
-Template for starting new Ansible projects
+
+Template for starting new Ansible projects.
+
+## LICENSE
+
+MIT
